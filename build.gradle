@@ -1,3 +1,15 @@
 plugins {
-    id 'com.android.application' version '8.6.1' apply false
+    id 'com.android.application'
+}
+android {
+    namespace 'com.example.battleroyale'
+    compileSdk 35
+
+    defaultConfig {
+        applicationId 'com.example.battleroyale'
+        minSdk 23
+        targetSdk 28
+        versionCode 1
+        versionName '1.0'
+    }
 }
