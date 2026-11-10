@@ -1,4 +1,4 @@
-package com.example.battleroyale;
+package com.exemple.battleroyale;
 
 import android.content.Context;
 import android.graphics.*;
