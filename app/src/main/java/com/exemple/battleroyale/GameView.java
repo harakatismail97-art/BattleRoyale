@@ -1,5 +1,5 @@
-package com.exemple.battleroyale;
 
+package com.example.battleroyale;
 import android.content.Context;
 import android.graphics.*;
 import android.view.MotionEvent;
